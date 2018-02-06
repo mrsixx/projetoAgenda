@@ -1,0 +1,11 @@
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\bin\Debug\netcoreapp2.0\appAgenda.deps.json
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\bin\Debug\netcoreapp2.0\appAgenda.runtimeconfig.json
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\bin\Debug\netcoreapp2.0\appAgenda.runtimeconfig.dev.json
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\bin\Debug\netcoreapp2.0\appAgenda.dll
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\bin\Debug\netcoreapp2.0\appAgenda.pdb
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\obj\Debug\netcoreapp2.0\appAgenda.csprojResolveAssemblyReference.cache
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\obj\Debug\netcoreapp2.0\appAgenda.csproj.CoreCompileInputs.cache
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\obj\Debug\netcoreapp2.0\appAgenda.AssemblyInfoInputs.cache
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\obj\Debug\netcoreapp2.0\appAgenda.AssemblyInfo.cs
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\obj\Debug\netcoreapp2.0\appAgenda.dll
+C:\Users\MR.SIXX\source\repos\appAgenda\appAgenda\obj\Debug\netcoreapp2.0\appAgenda.pdb
